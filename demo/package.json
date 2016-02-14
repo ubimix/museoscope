@@ -1,0 +1,14 @@
+{
+  "name": "prm-sandbox-org",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "git+https://github.com/Leaflet/Leaflet.git#v1.0.0-beta.2",
+    "leaflet-canvasdatagrid" : "^0.0.6",
+    "canvg": "git+https://github.com/gabelerner/canvg.git",
+    "open-iconic": "^1.1.1",
+    "send": "^0.13.0"
+  }
+}
